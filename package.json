@@ -1,0 +1,30 @@
+{
+  "name": "xb-front-cli",
+  "version": "1.0.0",
+  "description": "node cli and npm publish study",
+  "main": "index.js",
+  "bin": {
+    "xb": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xb",
+    "vue-cli",
+    "node study"
+  ],
+  "author": "coderwd",
+  "license": "ISC",
+  "homepage": "https://github.com/wudan555/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wudan555/"
+  },
+  "dependencies": {
+    "commander": "^9.3.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.8",
+    "open": "^8.4.0"
+  }
+}
