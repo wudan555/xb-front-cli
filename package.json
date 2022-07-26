@@ -1,7 +1,7 @@
 {
   "name": "xb-front-cli",
   "version": "1.0.0",
-  "description": "node cli and npm publish study",
+  "description": "node cli and constructor your project quickly",
   "main": "index.js",
   "bin": {
     "xb": "index.js"
@@ -11,8 +11,8 @@
   },
   "keywords": [
     "xb",
-    "vue-cli",
-    "node study"
+    "front-cli",
+    "node"
   ],
   "author": "coderwd",
   "license": "ISC",
