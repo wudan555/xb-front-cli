@@ -27,6 +27,8 @@ xb create 'projectName'
 xb create 'projectName' -u http://pro_url.com
 ```
 
+If you don't have an project template, you can see my git repo [wudan555](https://github.com/wudan555/), offer you some template
+
 ### 查看命令帮助
 
 ```
