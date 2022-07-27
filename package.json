@@ -1,7 +1,7 @@
 {
   "name": "xb-front-cli",
-  "version": "1.0.0",
-  "description": "node cli and constructor your project quickly",
+  "version": "1.0.1",
+  "description": "cli based node and constructor your project quickly",
   "main": "index.js",
   "bin": {
     "xb": "index.js"

@@ -17,3 +17,4 @@ create.createCommands(program);
 
 program.parse(process.argv);
 // console.log(program.opts().dest);
+// console.log(111, program.opts());
